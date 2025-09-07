@@ -54,11 +54,12 @@
 # texto = texto.upper()
 # print(texto)
 
-print("{} + {} = {}".format(2,3,2+3))
-print("{} + {} = {}".format("Hola", "Mundo" ,"Hola Mundo"))
-print("{:.3f} + {:.4f} = {}".format(2,3,2+3)) #que se coloque decimales 1.000 y 2 .0000
-print("{1} + {0} ={2}".format(2,3,2+3)) #se coloca la secuencia 0=2, 1=3, 2=2+3
-print("{2} + {0} = {1}".format("Hola", "Mundo" ,"Hola Mundo"))
-print("{:d} = {:b} = {:o} = {:x}".format(15,15,15,15))
+# print("{} + {} = {}".format(2,3,2+3))
+# print("{} + {} = {}".format("Hola", "Mundo" ,"Hola Mundo"))
+# print("{:.3f} + {:.4f} = {}".format(2,3,2+3)) #que se coloque decimales 1.000 y 2 .0000
+# print("{1} + {0} ={2}".format(2,3,2+3)) #se coloca la secuencia 0=2, 1=3, 2=2+3
+# print("{2} + {0} = {1}".format("Hola", "Mundo" ,"Hola Mundo"))
+# print("{:d} = {:b} = {:o} = {:x}".format(15,15,15,15))
 
-
+nombre = "eder"
+input("¿cual es tú nombre")
