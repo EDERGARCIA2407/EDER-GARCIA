@@ -6,14 +6,14 @@
 #-2 prar salir""")
 
 #subscripting e indexado
-#texto = "Python"
-#print(texto [0])
-#print(texto [5])
-#print(texto [-1])
-#print(texto [-6])
+texto = "Python"
+print(texto [0])
+print(texto [5])
+print(texto [-1])
+print(texto [-6])
 
-#letra = texto [0]
-#print (letra)
+letra = texto [0]
+print (letra)
 
 #texto [0] = "p" #no podemos modificar una cadena
 
@@ -28,9 +28,9 @@
 ##################################################
 #slicing o substringing
 
-# texto = "Python"
+#texto = "Python"
 
-# print(texto[0:3])
+#print(texto[0:3])
 # print(texto[0:-3])
 # print(texto[0:-2])
 # print(texto[2:])
@@ -39,7 +39,7 @@
 # print(texto[-3::-1])
 # print(texto[::-1]) #letras al reves
 
-# print(texto[1:50])
+#print(texto[1:50])
 
 ##########################################
 #cadena y formatos
