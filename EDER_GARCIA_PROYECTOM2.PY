@@ -45,5 +45,6 @@ elif x > 0 and y < 0:# se coloca la condicion para el IV cuandrante
     print("El punto esta en el Cuadrente IV", "x=", (x), "y=", (y)) 
 else:
     print("Fin de programa")
+    
 
 
